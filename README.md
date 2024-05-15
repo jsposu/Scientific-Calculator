@@ -1,17 +1,18 @@
-# Project Title
+# Scientific Calcultor
 
-Simple overview of use/purpose.
+Just a scientific calculator like any other but written in C++.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+I was in a math lecture and I didn't have a calculator so I decided to make one.
 
 ## Getting Started
 
 ### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+# For arch based distros
+* sudo pacman -S gtk3
+# For debian based distros
+* sudo apt install libgtk-3-dev
 
 ### Installing
 
