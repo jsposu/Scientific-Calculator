@@ -1,10 +1,10 @@
 # Scientific Calcultor
 
-Just a scientific calculator like any other but written in C++.
+* Just a scientific calculator like any other but written in C++. (THIS PROJECT IS STILL ON WIP)
 
 ## Description
 
-I was in a math lecture and I didn't have a calculator so I decided to make one.
+* I was in a math lecture and I didn't have a calculator so I decided to make one.
 
 ## Getting Started
 
@@ -20,18 +20,13 @@ sudo apt install g++
 sudo apt install libgtk-3-dev
 ```
 ### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
+```
+bash install.sh
+```
 ### Executing program
-
-* How to run the program
-* Step-by-step bullets
 ```
-code blocks for commands
+./calculator
 ```
-
 ## Help
 
 Any advise for common problems or issues.
