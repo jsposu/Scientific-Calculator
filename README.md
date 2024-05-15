@@ -10,12 +10,15 @@ I was in a math lecture and I didn't have a calculator so I decided to make one.
 
 ### Dependencies
 #### For arch based distros
-* sudo pacman -S gcc
-* pacman -S gtk3
+```
+sudo pacman -S gcc
+sudo pacman -S gtk3
+```
 #### For debian based distros
-* sudo apt install g++
-* apt install libgtk-3-dev
-
+```
+sudo apt install g++
+sudo apt install libgtk-3-dev
+```
 ### Installing
 
 * How/where to download your program
