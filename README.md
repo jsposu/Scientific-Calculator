@@ -9,9 +9,9 @@ I was in a math lecture and I didn't have a calculator so I decided to make one.
 ## Getting Started
 
 ### Dependencies
-# For arch based distros
+#### For arch based distros
 * sudo pacman -S gtk3
-# For debian based distros
+#### For debian based distros
 * sudo apt install libgtk-3-dev
 
 ### Installing
