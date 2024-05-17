@@ -1,6 +1,6 @@
 # Scientific Calcultor
 
-* Just a scientific calculator like any other but written in C++. (THIS PROJECT IS STILL ON WIP)
+* Just a scientific calculator like any other but written in C++. <span style="color:red">(THIS PROJECT IS STILL ON WIP)</span>
 
 ## Description
 
